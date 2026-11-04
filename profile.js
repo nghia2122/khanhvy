@@ -283,7 +283,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",            
-            url: "https://i.postimg.cc/fbY7MGdR/hlw.png",
+            url: "https://i.postimg.cc/k4NqBPDY/f1.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
@@ -407,6 +407,7 @@ if (ua.includes("Locket")) {
                 section: "🎨 Decorative by NGHIA",
                 items: [
                     { overlay_id: "caption:katemnguyen", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NGHIA CUTE", text_color: "#183153", type: "static_content" } },
+                     { overlay_id: "caption:q0", source: "remote", caption: { background: { colors: ["#E456CC"] }, max_lines: 1, text: "KHÁNH VY 🎀", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q1", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🐆 Báo thủ họ Hoàng", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q2", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🎮 PS5 đê", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q3", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🌝 Nói ko với ngủ sớm", text_color: "#183153", type: "static_content" } },
