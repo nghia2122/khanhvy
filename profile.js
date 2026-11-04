@@ -283,7 +283,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",            
-            url: "https://i.postimg.cc/k4NqBPDY/f1.png",
+            url: "https://i.postimg.cc/MppWGGkn/f1.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
@@ -408,12 +408,12 @@ if (ua.includes("Locket")) {
                 items: [
                     { overlay_id: "caption:katemnguyen", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NGHIA CUTE", text_color: "#183153", type: "static_content" } },
                      { overlay_id: "caption:q0", source: "remote", caption: { background: { colors: ["#F4BFD3", "#F9D9CF", "#DCCDF5"] }, max_lines: 1, text: "KHÁNH VY 🎀", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:q1", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🐆 Báo thủ họ Hoàng", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:q2", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🎮 PS5 đê", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:q3", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🌝 Nói ko với ngủ sớm", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:q4", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "Đồng Nai Never Die 😎", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:q5", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "Max Verstappen 🏎 ", text_color: "#183153", type: "static_content" } },
-                    { overlay_id: "caption:q6", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "TDT 🏫", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q1", source: "remote", caption: { background: { colors: ["#B8C9F2", "#D5DDF8", "#E8CFF0"] }, max_lines: 1, text: "🐆 Báo thủ họ Hoàng", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q2", source: "remote", caption: { background: { colors: ["#F2B5C8", "#F8D5D9", "#F6E5D2"] }, max_lines: 1, text: "🎮 PS5 đê", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q3", source: "remote", caption: { background: { colors: ["#F4BFD3", "#F9D9CF", "#DCCDF5"] }, max_lines: 1, text: "🌝 Nói ko với ngủ sớm", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q4", source: "remote", caption: { background: { colors: ["#DCCBFF", "#CDB7F6", "#E8D9FF"] }, max_lines: 1, text: "Đồng Nai Never Die 😎", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q5", source: "remote", caption: { background: { colors: ["#FFCBA4", "#FFDCC2", "#F9D9CF"] }, max_lines: 1, text: "Max Verstappen 🏎 ", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:q6", source: "remote", caption: { background: { colors: ["#A8D8EA", "#B8C9F2", "#D5DDF8"] }, max_lines: 1, text: "TDT 🏫", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "dự án ma", text_color: "#FFFFFFE6", type: "static_content" } }
                 ]
                 
