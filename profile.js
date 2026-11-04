@@ -407,7 +407,7 @@ if (ua.includes("Locket")) {
                 section: "🎨 Decorative by NGHIA",
                 items: [
                     { overlay_id: "caption:katemnguyen", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "💻 NGHIA CUTE", text_color: "#183153", type: "static_content" } },
-                     { overlay_id: "caption:q0", source: "remote", caption: { background: { colors: ["#E456CC"] }, max_lines: 1, text: "KHÁNH VY 🎀", text_color: "#183153", type: "static_content" } },
+                     { overlay_id: "caption:q0", source: "remote", caption: { background: { colors: ["#F4BFD3", "#F9D9CF", "#DCCDF5"] }, max_lines: 1, text: "KHÁNH VY 🎀", text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:q1", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🐆 Báo thủ họ Hoàng", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q2", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🎮 PS5 đê", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q3", source: "remote", caption: { background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] }, max_lines: 1, text: "🌝 Nói ko với ngủ sớm", text_color: "#183153", type: "static_content" } },
