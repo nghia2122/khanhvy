@@ -51,7 +51,7 @@ if (ua.includes("Locket")) {
             title: "Đã Kich Hoạt 💛",
             feature_set: [
                 {
-                    title: " VY USA",
+                    title: " VY 🎀",
                     body: "KO NGỦ TRỄ ĐỜI KO NỂ"
                 }
             ],
