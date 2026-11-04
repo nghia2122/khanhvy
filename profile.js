@@ -52,7 +52,7 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: " VY USA",
-                    body: "SỐNG VỀ ĐÊM"
+                    body: "KO NGỦ TRỄ ĐỜI KO NỂ"
                 }
             ],
             primary_button_title: "Xong",
