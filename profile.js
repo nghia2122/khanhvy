@@ -414,6 +414,7 @@ if (ua.includes("Locket")) {
                     { overlay_id: "caption:q4", source: "remote", caption: { background: { colors: ["#DCCBFF", "#CDB7F6", "#E8D9FF"] }, max_lines: 1, text: "Đồng Nai Never Die 😎", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q5", source: "remote", caption: { background: { colors: ["#FFCBA4", "#FFDCC2", "#F9D9CF"] }, max_lines: 1, text: "Max Verstappen 🏎 ", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:q6", source: "remote", caption: { background: { colors: ["#A8D8EA", "#B8C9F2", "#D5DDF8"] }, max_lines: 1, text: "TDT 🏫", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:hoi_chieu_troi_mua", source: "remote", caption: { background: { colors: ["#546E7A", "#263238"] }, icon: { data: "🌧️", type: "emoji" }, max_lines: 1, text: "Hồi chiều trời mưa...", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:du_an_ma", source: "remote", caption: { background: { colors: ["#263238", "#455A64"] }, icon: { data: "👻", type: "emoji" }, max_lines: 1, text: "dự án ma", text_color: "#FFFFFFE6", type: "static_content" } }
                 ]
                 
